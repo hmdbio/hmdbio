@@ -19,12 +19,15 @@
 - 📫 Nos contate através: 
 
     - https://hmdbio.com.br/
+    - https://hmdbio.com.br/contato/
     - https://github.com/hmdbio/
 
+  --------------------------------------------
   
   ```
-  Please don't forget to 'Star' in projects under development. ThankYou!
+  ⭐ Please don't forget to send 'Star' in projects under development. ThankYou!
   ```
+    ----------------------------------------------
 
   
 
